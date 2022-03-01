@@ -12,3 +12,21 @@ div.container div.titulo h1 {
     font-size: 18px;
     color: black;
 }
+
+p.acercademi {
+    font-size: 1.5em;
+}
+
+body{
+    background-color: lightgoldenrodyellow !important;
+    font-family: 'VarelaRound-Regular';
+}
+
+p.origen {
+    font-size: 1.2em;
+}
+
+p.trama {
+    font-size: 1.1em;
+}
+
